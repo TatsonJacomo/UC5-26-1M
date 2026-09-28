@@ -4,7 +4,7 @@
 We work at the office | She Works at the office.
 
 
-'read' | 'open' | 'enjoy' | 'study' | 'carry' | 'catch' | 'push' | 'mix' | 'miss' | 'go'
+## 'read' | 'open' | 'enjoy' | 'study' | 'carry' | 'catch' | 'push' | 'mix' | 'miss' | 'go'
 
 
 # read
