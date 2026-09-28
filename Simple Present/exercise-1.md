@@ -28,16 +28,16 @@ Complete as frases com a forma correta do verbo entre parênteses.
  e) We _____watch_____ TV at night. (watch) 
  f) My sister ___watches___ TV at night. (watch) 
  g) You _____drink_____ coffee in the morning. (drink) 
- h) My father ____drinkes______ coffee in the morning. (drink)
+ h) My father ____drinkes___ coffee in the morning. (drink)
 
 Agora pense: O que muda quando o sujeito é he, she ou it?
 
 # 3. Quem é essa pessoa?
 Leia as informações e descubra quem pode ser a pessoa. Depois, escreva frases completas usando Simple Present.
 
-Person A   
+Person A                             
 
-works at a school
+works at a school          
 teaches English
 reads many books
 goes to work by bus
@@ -63,14 +63,13 @@ Agora responda:
 
 a) Who works at a school?  Person A works at a school.
 b) Who studies at night?   Person B studies at night.
-c) Who uses a computer?   Person C uses a computer.
-d) Who doesn't like coffee?  Person B doesn't like coffee.
+c) Who uses a computer?    Person C uses a computer.
+d) Who doesn't like coffee?   Person B doesn't like coffee.
 e) Who enjoys music?   Person C enjoys music.
 
 Depois: Escolha uma das pessoas e escreva 3 novas frases sobre ela.
 
-
-Exemplo de 3 frases novas (Person A):
+## Exemplo de 3 frases novas (Person A):
 
 She starts work at 8 a.m.
 She likes books very much.
@@ -79,13 +78,15 @@ She drinks coffee every morning
 ## Respostas:
 
  ## Person A   (teacher).
+ 
 She works at a school.
 She teaches English.
 She reads many books.
 She goes to work by bus.
 She likes coffee.
 
-## Person B   (doctor) 
+## Person B   (doctor)
+
 She works at a hospital.
 She helps sick people.
 She studies at night.
@@ -93,6 +94,7 @@ She drinks a lot of water.
 She doesn't like coffee.
 
 ## Person C   (office worker) 
+
 He/She works in an office.
 He/She uses a computer.
 He/She goes to work by car.
@@ -110,17 +112,17 @@ Exemplo: you / work / on Saturdays? → Do you work on Saturdays?
 
 Agora faça:
 
-a) you / like / pizza? → ____Do you like pizza?_____
+a) you / like / pizza? → ____Do you like pizza?___
 
 b) she / study / English? → ___Does she study English?______
 
 c) he / play / soccer? → _____Does he play soccer?______
 
-d) they / go / to school by bus? → _____Do they go to school by bus?____
+d) they / go / to school by bus? → _____Do they go to school by bus?_____
 
-e) your mother / work / on Sundays? → __Does your mother work on Sundays?___
+e) your mother / work / on Sundays? → ___Does your mother work on Sundays?___
 
-f) your friends / watch / TV at night? → __Do you friends watch TV at night?___
+f) your friends / watch / TV at night? → ___Do you friends watch TV at night?___
 
 
 # 5. Verdadeiro ou falso?
@@ -152,6 +154,8 @@ j) They don't work on Sundays. ___C___
 
 
 
+
+___________________________________________________________________________________________________________________
 
 
 ## 1 - Crie frases para os verbos listados abaixo. Faça, para o mesmo verbo, uma frase com I, YOU, WE ou THEY e, AO LADO,  a mesma frase com HE, SHE ou IT:
