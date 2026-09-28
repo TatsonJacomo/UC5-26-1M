@@ -1,0 +1,59 @@
+1) Crie frases para os verbos listados abaixo. Faça, para o mesmo verbo, uma frase com I, YOU, WE ou THEY e, AO LADO,  a mesma frase com HE, SHE ou IT:
+
+'Work'
+We work at the office | She Works at the office.
+
+
+'read' | 'open' | 'enjoy' | 'study' | 'carry' | 'catch' | 'push' | 'mix' | 'miss' | 'go'
+
+
+'read'
+I read a book every day. | He reads a book every day.
+
+Eu leio um livro todos os dias. | Ele lê um livro todos os dias.
+
+'open'
+You open the door. | She opens the door.
+
+Você abre a porta. | Ela abre a porta.
+
+'enjoy'
+We enjoy the party. | It enjoys the game.
+
+Nós gostamos da festa / aproveitamos a festa. | Ele/Ela gosta do jogo / aproveita o jogo.
+
+'study'
+They study English. | She studies English.
+
+Eles estudam inglês. | Ela estuda inglês.
+
+'carry'
+We carry the bag. | He carries the bag.
+
+Nós carregamos a bolsa. | Ele carrega a bolsa.
+
+'catch'
+They catch the ball. | She catches the ball.
+
+Eles pegam a bola. | Ela pega a bola.
+
+'push'
+You push the car. | He pushes the car.
+
+Você empurra o carro. | Ele empurra o carro.
+
+'mix'
+We mix the colors. | It mixes the colors.
+
+Nós misturamos as cores. | Ele/Ela mistura as cores.
+
+'miss'
+They miss their friends. | She misses her friends.
+
+Eles sentem falta dos amigos deles. | Ela sente falta dos amigos dela.
+
+'go'
+I go to school. | He goes to school.
+
+Eu vou para a escola. | Ele vai para a escola.
+
