@@ -11,10 +11,15 @@ f) I likes chocolate.
 
 ## resposta:
 a) She works at a hospital.
+
 b) They like pizza.
+
 C) He studies English every day.
-d) We go to school by bus
+
+d) We go to school by bus.
+
 e) My brother watches TV at night.
+
 f) I like chocolate.
 
 
@@ -22,12 +27,19 @@ f) I like chocolate.
 Complete as frases com a forma correta do verbo entre parênteses.
 
  a) I ___study_______ English every day. (study)
- b) She ____studies______ English every day. (study) 
+ 
+ b) She ____studies______ English every day. (study
+ ) 
  c) They _____go_____ to school by bus. (go) 
+ 
  d) He _____goes_____ to school by bus. (go) 
+ 
  e) We _____watch_____ TV at night. (watch) 
+ 
  f) My sister ___watches___ TV at night. (watch) 
+ 
  g) You _____drink_____ coffee in the morning. (drink) 
+ 
  h) My father ____drinkes___ coffee in the morning. (drink)
 
 Agora pense: O que muda quando o sujeito é he, she ou it?
@@ -35,39 +47,57 @@ Agora pense: O que muda quando o sujeito é he, she ou it?
 # 3. Quem é essa pessoa?
 Leia as informações e descubra quem pode ser a pessoa. Depois, escreva frases completas usando Simple Present.
 
-Person A                             
+# Person A                             
 
-works at a school          
-teaches English
-reads many books
-goes to work by bus
-likes coffee
+works at a school.
 
-Person B
+teaches English.
 
-works at a hospital
-helps sick people
-studies at night
-drinks a lot of water
-doesn't like coffee
+reads many books.
 
-Person C
+goes to work by bus.
 
-works in an office
-uses a computer
-goes to work by car
-enjoys music
-doesn't work on Sundays
+likes coffee.
 
-Agora responda:
 
-a) Who works at a school?  Person A works at a school.
-b) Who studies at night?   Person B studies at night.
-c) Who uses a computer?    Person C uses a computer.
-d) Who doesn't like coffee?   Person B doesn't like coffee.
-e) Who enjoys music?   Person C enjoys music.
+# Person B
 
-Depois: Escolha uma das pessoas e escreva 3 novas frases sobre ela.
+works at a hospital.
+
+helps sick people.
+
+studies at night.
+
+drinks a lot of water.
+
+doesn't like coffee.
+
+# Person C
+
+works in an office.
+
+uses a computer.
+
+goes to work by car.
+
+enjoys music.
+
+doesn't work on Sundays.
+
+## Agora responda:
+
+a) Who works at a school?  _Person A works at a school._
+
+b) Who studies at night?   _Person B studies at night._
+
+c) Who uses a computer?    _Person C uses a computer._
+
+d) Who doesn't like coffee?   _Person B doesn't like coffee._
+
+e) Who enjoys music?   _Person C enjoys music._
+
+
+## Depois: Escolha uma das pessoas e escreva 3 novas frases sobre ela.
 
 ## Exemplo de 3 frases novas (Person A):
 
@@ -80,25 +110,37 @@ She drinks coffee every morning
  ## Person A   (teacher).
  
 She works at a school.
+
 She teaches English.
+
 She reads many books.
+
 She goes to work by bus.
+
 She likes coffee.
 
 ## Person B   (doctor)
 
 She works at a hospital.
+
 She helps sick people.
+
 She studies at night.
+
 She drinks a lot of water.
+
 She doesn't like coffee.
 
 ## Person C   (office worker) 
 
 He/She works in an office.
+
 He/She uses a computer.
+
 He/She goes to work by car.
+
 He/She enjoys music.
+
 He/She doesn't work on Sundays.
 
 
@@ -106,51 +148,51 @@ He/She doesn't work on Sundays.
 # 4. Pergunte para descobrir
 Imagine que você está tentando descobrir a rotina de um colega.
 
-Crie perguntas usando as palavras abaixo.
+# Crie perguntas usando as palavras abaixo.
 
-Exemplo: you / work / on Saturdays? → Do you work on Saturdays?
+# Exemplo: you / work / on Saturdays? → Do you work on Saturdays?
 
-Agora faça:
+# Agora faça:
 
-a) you / like / pizza? → ____Do you like pizza?___
+a) you / like / pizza? → _Do you like pizza?_
 
-b) she / study / English? → ___Does she study English?______
+b) she / study / English? → _Does she study English?_
 
-c) he / play / soccer? → _____Does he play soccer?______
+c) he / play / soccer? → _Does he play soccer?_
 
-d) they / go / to school by bus? → _____Do they go to school by bus?_____
+d) they / go / to school by bus? → _Do they go to school by bus?_
 
-e) your mother / work / on Sundays? → ___Does your mother work on Sundays?___
+e) your mother / work / on Sundays? → _Does your mother work on Sundays?_
 
-f) your friends / watch / TV at night? → ___Do you friends watch TV at night?___
+f) your friends / watch / TV at night? → _Do you friends watch TV at night?_
 
 
 # 5. Verdadeiro ou falso?
 Leia as frases. Algumas são gramaticalmente corretas, algumas são incorretas.
 
-Marque:
+# Marque:
 
 C = correta I = incorreta
 
-a) She works at a bank. __C____
+a) She works at a bank. C
 
-b) He work at a bank. __I___
+b) He work at a bank. I
 
-c) They likes music. __I____
+c) They likes music. I
 
-d) I study English. ___C___
+d) I study English. C
 
-e) My sister studies English. __C____
+e) My sister studies English. C
 
-f) We goes to school every day. __I____
+f) We goes to school every day. I
 
-g) Pedro plays soccer on Saturdays. ___C___
+g) Pedro plays soccer on Saturdays. C
 
-h) She don't like coffee. ___I___
+h) She don't like coffee. I
 
-i) He doesn't like coffee. __C____
+i) He doesn't like coffee. C
 
-j) They don't work on Sundays. ___C___
+j) They don't work on Sundays. C
 
 
 
