@@ -103,8 +103,11 @@ e) Who enjoys music?   _Person C enjoys music._
 ## Exemplo de 3 frases novas (Person A):
 
 She starts work at 8 a.m.
+
 She likes books very much.
+
 She drinks coffee every morning
+
 
 ## Respostas:
 
