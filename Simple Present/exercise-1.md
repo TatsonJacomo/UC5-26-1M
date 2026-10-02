@@ -30,6 +30,7 @@ Complete as frases com a forma correta do verbo entre parênteses.
  
  b) She ____studies______ English every day. (study
  ) 
+ 
  c) They _____go_____ to school by bus. (go) 
  
  d) He _____goes_____ to school by bus. (go) 
